@@ -4,3 +4,5 @@ These scripts are related to the collection and analysis of 3D surface informati
 If you use these scripts for an academic work, please cite:
 
 Kallal, R.J., & Wood HM. High-density three-dimensional morphometric analyses reveal predation-based disparity and evolutionary modularity in spider ‘jaws’. Evolutionary Biology. Accepted.
+
+The surfacegen files go through the process of taking landmarked surfaces from IDAV to something usable for GMM, then performing a PCA.
