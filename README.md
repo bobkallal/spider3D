@@ -5,4 +5,6 @@ If you use these scripts for an academic work, please cite:
 
 Kallal, R.J., & Wood HM. High-density three-dimensional morphometric analyses reveal predation-based disparity and evolutionary modularity in spider ‘jaws’. Evolutionary Biology. Accepted.
 
-The surfacegen files go through the process of taking landmarked surfaces from IDAV to something usable for GMM, then performing a PCA.
+The surfacegen files go through the process of taking landmarked surfaces from IDAV to something usable for GMM, then performing a PCA. 'All' files include all spiders while the 'unique species' files has only one individual per species. The comparative file contains a summary of comparative analyses conducted on variations of this dataset.
+
+
